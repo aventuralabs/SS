@@ -20,4 +20,5 @@ Levenshtein distance between two strings. Optional maxDist used to speed up impl
 Returns the Phonex encoding of a string.
 
 #### SS.cellex(str)
-Variation of Phonex created by the author.
+Variation of Phonex created by the author. As opposed to Phonex, first letters are encoded, duplicates are preserved,
+results are not limited by length.
