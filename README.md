@@ -11,8 +11,8 @@ results are not limited by length.
 #### SS.jw(str1, str2)
 Jaro-Winkler similarity (based on Lars Marius Garshol Java implementation).
 
-#### SS.leven(str1, str2, maxDist)
-Levenshtein distance between two strings. Optional maxDist used to speed up implementation.
+#### SS.leven(str1, str2)
+Levenshtein distance between two strings.
 
 #### SS.longest(str1, str2)
 Length of longest common substring.
