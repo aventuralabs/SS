@@ -1,0 +1,17 @@
+{
+  "name": "SS",
+  "version": "0.1.0",
+  "description": "Ultra-fast string-scoring for JavaScript",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brandoncarl/SS.git"
+  },
+  "keywords": [
+    "string",
+    "scoring",
+    "similarity",
+    "metrics"
+  ],
+  "author": "Brandon Carl"
+}
